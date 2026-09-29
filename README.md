@@ -1,6 +1,6 @@
 # ZapFlex
 
-Cliente leve do WhatsApp Web para Windows, com múltiplas contas, bloqueio por PIN e modo privacidade.
+Cliente leve para Windows que reúne suas contas do **WhatsApp**, do **Telegram** e do **Instagram** (mensagens) em uma janela. Oferece bloqueio por PIN e modo privacidade.
 
 ## Download
 
@@ -16,4 +16,4 @@ Cada versão publicada aqui é acompanhada de um arquivo `latest.json` assinado 
 
 ---
 
-Este repositório contém apenas as versões publicadas, não o código-fonte. O ZapFlex é um projeto independente e não é afiliado ao WhatsApp nem à Meta.
+Este repositório contém apenas as versões publicadas, não o código-fonte. O ZapFlex é um projeto independente e não é afiliado ao WhatsApp, ao Telegram, ao Instagram nem à Meta. Os nomes e símbolos desses serviços são usados apenas para identificar cada conta.
